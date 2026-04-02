@@ -84,4 +84,4 @@ Dataset: download from [GroupLens](https://files.grouplens.org/datasets/movielen
 ## Author
 
 **Amr Nabil** — Computer Science graduate, Data Science & Machine Learning  
-[LinkedIn](https://www.linkedin.com/in/amr-nabil623813220/) · [GitHub](https://github.com/Amr0024)
+[LinkedIn](https://www.linkedin.com/in/amr-nabil-623813220/) · [GitHub](https://github.com/Amr0024)
