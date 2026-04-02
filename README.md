@@ -25,15 +25,15 @@ Most data analysis courses teach SQL in isolation from real workflows. This proj
 
 <!-- Upload your chart images to this repo, then replace the filenames below -->
 
+*Distribution of all ratings — clear skew toward positive scores*
 ![Rating Distribution](images/rating_distribution.png)
 
-*Distribution of all ratings — clear skew toward positive scores*
-
-![Most Rated Movies](images/most_rated_movies.png)
 *Top 10 movies by number of ratings*
+![Most Rated Movies](images/most_rated_movies.png)
 
-![User Activity Distribution](images/user_activity.png)
 *Ratings per user — heavy-tailed distribution*
+![User Activity Distribution](images/user_activity.png)
+
 
 ---
 
